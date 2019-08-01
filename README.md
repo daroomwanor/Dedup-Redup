@@ -1,4 +1,9 @@
 # Dedup-Redup
+Author: Daro Omwanor
+Date: July 30 2019
+
+
+
 
     Generic Algorithm:
     1.Read chunk-by-chunk the input file
